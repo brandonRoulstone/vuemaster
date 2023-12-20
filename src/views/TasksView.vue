@@ -6,7 +6,6 @@
             <div>
                 <h2>{{i.taskName}}</h2>
                 <p>link: {{i.github}}</p>
-            
             </div>
         </div>
     </div>
