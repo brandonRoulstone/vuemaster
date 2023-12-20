@@ -1,0 +1,32 @@
+{
+    "intro": [
+        {
+            "welcome": "Hey I am Brandon"
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "taskName":"Calculator",
+            "github": "https://github.com"
+        },
+        {
+            "id": 2,
+            "taskName": "E-commerce store",
+            "github": "https://github.com"
+        }
+    ],
+    "reviews":[
+        {
+            "id": 1,
+            "name":"John Doe",
+            "Description":"I worked in many of Brandon's projects and I always like my name to be included"
+        },
+        {
+            "id": 2,
+            "name": "John Wick",
+            "Description": "Brandon really knows how to code!"
+        }
+    ]
+}
+
